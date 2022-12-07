@@ -16,8 +16,8 @@ This program is an interactive periodic table made with pyhton tkinter. When you
     Quiroz, Charles Wayne M.
 
 ## Email us at
-ilaogian000@gmail.com
-lindowamamiya1412@gmail.com
+ilaogian000@gmail.com ||
+lindowamamiya1412@gmail.com ||
 jersonnoehldavid@yahoo.com
 
 ## References and tools
