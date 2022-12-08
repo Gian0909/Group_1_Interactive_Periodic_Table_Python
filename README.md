@@ -1,4 +1,4 @@
-# Interactive Periodic Table using Python Tkinter ans SQL
+# Interactive Periodic Table using Python Tkinter and SQL
 This program is an interactive periodic table made with pyhton tkinter. When you run the program a Graphical User Interface will pop up and show all the 118 elements in the periodic table and will be available for the user to click. When a certain button or tile is clicked, on the same screen the properties of that certain element will be displayed in a small frame. It also has a clear function if you want to go to the default look of the periodic table. The size of the GUI is not resizable and might be odd to some users who use a smaller screen. The program can be terminated using the exit button in the title bar.
 
 ## How to Use this Program
